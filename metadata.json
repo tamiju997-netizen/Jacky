@@ -1,0 +1,6 @@
+{
+  "name": "Dooded Global – Rise of the MVP",
+  "description": "An immersive 3D fantasy MMORPG inspired by Ragnarok Online with 5 unique classes, legendary MVP bosses, boss transformations, multiplayer dungeons, guild wars, pets, mounts, and fashion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
